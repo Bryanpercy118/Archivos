@@ -56,4 +56,4 @@ Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo `LICENSE` 
 ---
 Esperamos que este microservicio de carga de imágenes sea útil para tus proyectos. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Gracias por usar Archivos!
 
-Desarrollador por Bryan A. Granados Percy
+Desarrollado por Bryan A. Granados Percy
